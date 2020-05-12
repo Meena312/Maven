@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69763" started-at="2020-04-07T19:26:16 IST" finished-at="2020-04-07T19:27:26 IST">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="44155" started-at="2020-04-07T19:26:16 IST" finished-at="2020-04-07T19:27:00 IST">
+      <class name="com.erp.customer_scripts.CreateCustomer">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.erp.customer_scripts.CreateCustomer@6f1fba17]" name="openBrowser" is-config="true" duration-ms="19097" started-at="2020-04-07T19:26:16 IST" finished-at="2020-04-07T19:26:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.erp.customer_scripts.CreateCustomer@6f1fba17]" name="Login" is-config="true" duration-ms="837" started-at="2020-04-07T19:26:35 IST" finished-at="2020-04-07T19:26:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="testCreateCustomer()[pri:0, instance:com.erp.customer_scripts.CreateCustomer@6f1fba17]" name="testCreateCustomer" duration-ms="20931" started-at="2020-04-07T19:26:36 IST" finished-at="2020-04-07T19:26:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateCustomer -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.erp.customer_scripts.CreateCustomer@6f1fba17]" name="Logout" is-config="true" duration-ms="742" started-at="2020-04-07T19:26:57 IST" finished-at="2020-04-07T19:26:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.erp.customer_scripts.CreateCustomer@6f1fba17]" name="closeBrower" is-config="true" duration-ms="2342" started-at="2020-04-07T19:26:58 IST" finished-at="2020-04-07T19:27:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.erp.customer_scripts.CreateCustomer -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="24811" started-at="2020-04-07T19:27:01 IST" finished-at="2020-04-07T19:27:26 IST">
+      <class name="com.erp.projects.scripts.CreateProject">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.erp.projects.scripts.CreateProject@3701eaf6]" name="openBrowser" is-config="true" duration-ms="12192" started-at="2020-04-07T19:27:01 IST" finished-at="2020-04-07T19:27:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="Login()[pri:0, instance:com.erp.projects.scripts.CreateProject@3701eaf6]" name="Login" is-config="true" duration-ms="1214" started-at="2020-04-07T19:27:13 IST" finished-at="2020-04-07T19:27:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method status="PASS" signature="testCreateProject()[pri:0, instance:com.erp.projects.scripts.CreateProject@3701eaf6]" name="testCreateProject" duration-ms="10454" started-at="2020-04-07T19:27:14 IST" finished-at="2020-04-07T19:27:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateProject -->
+        <test-method status="PASS" signature="Logout()[pri:0, instance:com.erp.projects.scripts.CreateProject@3701eaf6]" name="Logout" is-config="true" duration-ms="662" started-at="2020-04-07T19:27:25 IST" finished-at="2020-04-07T19:27:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Logout -->
+        <test-method status="PASS" signature="closeBrower()[pri:0, instance:com.erp.projects.scripts.CreateProject@3701eaf6]" name="closeBrower" is-config="true" duration-ms="285" started-at="2020-04-07T19:27:25 IST" finished-at="2020-04-07T19:27:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- com.erp.projects.scripts.CreateProject -->
+    </test> <!-- Test2 -->
+  </suite> <!-- Suite -->
+</testng-results>

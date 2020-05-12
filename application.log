@@ -1,0 +1,11 @@
+2020-04-07 19:27:12,133  INFO [main] BaseClass:35 - **********Browser Launched**********
+2020-04-07 19:27:13,526  INFO [main] BaseClass:38 - **********Window maximized**********
+2020-04-07 19:27:14,760  INFO [main] BaseClass:52 - **********Login Sucessful**********
+2020-04-07 19:27:20,844  INFO [main] BaseClass:24 - **********Projects and Customers Linked**********
+2020-04-07 19:27:21,650  INFO [main] BaseClass:27 - ********** New Project Button is Added**********
+2020-04-07 19:27:22,334  INFO [main] BaseClass:30 - **********Entered Customer Name**********
+2020-04-07 19:27:23,203  INFO [main] BaseClass:32 - **********Entered Project Name**********
+2020-04-07 19:27:25,037  INFO [main] BaseClass:34 - **********Project Button is Created**********
+2020-04-07 19:27:25,216  INFO [main] BaseClass:36 - **********Retrived Sucess Message sucessfully**********
+2020-04-07 19:27:25,878  INFO [main] BaseClass:58 - **********Logout Sucessful**********
+2020-04-07 19:27:26,165  INFO [main] BaseClass:44 - **********Browser closed**********
